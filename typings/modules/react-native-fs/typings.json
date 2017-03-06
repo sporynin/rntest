@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/3633866ea5079a65a958d49b97ac5c8e3dfd532d/react-native-fs/index.d.ts",
+    "raw": "registry:dt/react-native-fs#2.0.0+20170101233612",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/3633866ea5079a65a958d49b97ac5c8e3dfd532d/react-native-fs/index.d.ts"
+  }
+}

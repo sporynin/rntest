@@ -1,0 +1,21 @@
+{
+  "name": "awesomenative",
+  "dependencies": {
+    "debug": "registry:npm/debug#2.0.0+20160723033700",
+    "react": "registry:dt/react#0.14.0+20161211160957",
+    "react-native": "registry:dt/react-native#0.37.0+20161201001236",
+    "react-redux": "registry:dt/react-redux#4.4.0+20161124155658",
+    "redux-logger": "registry:dt/redux-logger#2.6.0+20160726205300",
+    "redux-thunk": "registry:npm/redux-thunk#2.0.0+20160525185520",
+    "superagent": "registry:dt/superagent#2.0.0+20161124104740"
+  },
+  "devDependencies": {
+    "react": "registry:dt/react#0.14.0+20161211160957",
+    "react-native": "registry:dt/react-native#0.37.0+20161201001236"
+  },
+  "globalDependencies": {
+    "node": "registry:env/node#6.0.0+20161225010013",
+    "redux": "registry:dt/redux#3.5.2+20160703092728",
+    "redux-thunk": "registry:dt/redux-thunk#2.1.0+20160703120921"
+  }
+}
